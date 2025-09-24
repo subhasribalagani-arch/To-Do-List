@@ -33,7 +33,7 @@ todo-list/
 ---
 
 ## 🖥️ How to Run
-1. Clone or download this repository. repo-subhasribalagani-arch/To-Do-List 
+1. Clone or download this repository.https://github.com/subhasribalagani-arch/To-Do-List
 2. Open the `index.html` file in your web browser.
 3. Start adding your tasks 🎉
 

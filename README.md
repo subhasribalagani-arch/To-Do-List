@@ -40,7 +40,7 @@ todo-list/
 ---
 
 ## 📸 Screenshot (Example UI)
-![To-Do App Screenshot](https://via.placeholder.com/500x300?text=To-Do+List+Preview)
+![To-Do App Screenshot]https://github.com/subhasribalagani-arch/To-Do-List/blob/2a124d77c19103c1274d2f2da7bff646e5dd521a/Screenshot_24-9-2025_152522_127.0.0.1.jpeg
 
 ---
 
